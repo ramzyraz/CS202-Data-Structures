@@ -1,8 +1,6 @@
 # CS202-Data-Structures
 Data Structure Course Assignments
 
-These assignments were part of the Data Structures course offered at my University.
-
 ### Assignment# 1:
 Linked Lists, Stacks, Queues
 
